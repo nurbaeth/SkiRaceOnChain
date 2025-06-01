@@ -19,7 +19,7 @@
 
 - `joinRace()`: Register as a racer
 - `startRace()`: Start the race when ready
-- `move(steps)`: Move forward (1–3 steps)
+- `move(steps)`: Move forward (1–3 steps) 
 - `winner`: Address of the player who won
 - `getTrack()`: View positions of all racers
 
